@@ -7,7 +7,7 @@ tags:
   - blogging
   - learning in public
 author: Astro Learner
-pubDate: 2022-07-01T00:00:00.000Z
+pubDate: 2022-07-01
 ---
 Welcome to my new blog about learning Astro! Here, I will share my learning journey as I build a new website.
 
@@ -20,3 +20,9 @@ Welcome to my new blog about learning Astro! Here, I will share my learning jour
 ## What's next
 
 I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+
+```python
+c = 1
+for i in range(1, 25):
+  print(i)
+```
