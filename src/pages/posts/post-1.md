@@ -23,5 +23,5 @@ I will finish the Astro tutorial, and then keep adding more posts. Watch this sp
 
 ```
 c = 1
-for i in range(1, 25):print(i)
+for i in range(1, 25):  print(i)
 ```
