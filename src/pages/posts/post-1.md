@@ -20,9 +20,3 @@ Welcome to my new blog about learning Astro! Here, I will share my learning jour
 ## What's next
 
 I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
-
-```
-c = 1
-for i in range(1, 25):
-  print(i)
-```
