@@ -22,3 +22,10 @@ Welcome to my _new blog_ about learning Astro! Here, I will share my learning jo
 ## What's next
 
 I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+
+```python
+c = 1
+for i in range(1, 25):
+    i += 1
+    print(i)
+```
